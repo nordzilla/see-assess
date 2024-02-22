@@ -1,0 +1,9 @@
+h3.warning {
+  color: blue;
+  background: red;
+}
+
+p.warning {
+  color: red;
+  background: blue;
+}

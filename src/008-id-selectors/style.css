@@ -1,0 +1,10 @@
+/* Matches specifically an h1 with this id. */
+h1#first-header {
+  color: blue;
+}
+
+/* Matches any element with this id. */
+#second-header {
+  color: red;
+}
+

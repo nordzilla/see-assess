@@ -1,0 +1,16 @@
+/* Applies to all elements that have the warning class */
+.warning {
+  font-family: monospace;
+}
+
+/* Applies to only <h3> elements that have the warning class */
+h3.warning {
+  color: blue;
+  background: red;
+}
+
+/* Applies to only <p> elements that have the warning class */
+p.warning {
+  color: red;
+  background: blue;
+}

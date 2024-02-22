@@ -1,0 +1,12 @@
+em {
+  display: block;
+}
+
+p {
+  display: inline;
+}
+
+pre {
+  display: inline;
+  font-weight: bold;
+}

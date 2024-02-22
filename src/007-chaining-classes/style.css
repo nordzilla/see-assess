@@ -1,0 +1,12 @@
+.urgent {
+  background: red;
+}
+
+.warning {
+  font-family: monospace;
+}
+
+.urgent.warning {
+  color: blue;
+}
+
